@@ -1,6 +1,6 @@
-# CCSL
+# CGSL
 
-Cloud Common Shared Library
+**C**ommon **G**o **S**hared **L**ibrary
 
 ## Usage
 
